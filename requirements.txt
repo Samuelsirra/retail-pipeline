@@ -1,0 +1,6 @@
+apache-beam[gcp]==2.48.0
+google-cloud-bigquery
+google-cloud-storage
+apache-airflow
+apache-airflow-providers-google
+pytest
