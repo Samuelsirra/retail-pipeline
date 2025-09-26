@@ -1,4 +1,4 @@
-# Woolworths Retail Batch Pipeline (sample)
+# Retail Batch Pipeline (sample)
 
 This repository contains a minimal, runnable example of a **retail batch pipeline** (GCS -> Dataflow -> BigQuery)
 with orchestration via Airflow (Cloud Composer).
